@@ -13,6 +13,9 @@ print myage
 mylist=['this','that','the other']
 print mylist
 
+newlist=['string1', 'string2']
+print newlist
+
 mynumberlist=[1,15,25,35]
 print mynumberlist
 
