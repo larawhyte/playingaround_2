@@ -3,7 +3,22 @@
 
 # import scraperwiki
 # import lxml.html
-#
+
+mytext ='He said "hello".'
+print mytext
+
+myage =32
+print myage
+
+mylist= ['this','that','the other']
+print mylist
+
+mynumberlist = [1,14,25,35]
+print my numberlist 
+
+listlenth= len(mylist)
+
+
 # print 'He said "hello"
 # html = scraperwiki.scrape("http://foo.com")
 #
