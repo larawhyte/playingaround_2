@@ -4,7 +4,7 @@
 # import scraperwiki
 # import lxml.html
 #
-# # Read in a page
+# print 'He said "hello"
 # html = scraperwiki.scrape("http://foo.com")
 #
 # # Find something on the page using css selectors
