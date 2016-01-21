@@ -20,6 +20,13 @@ mynumberlist=[1,15,25,35]
 print mynumberlist
 
 listlength=len(mylist)
+print listlength
+
+stringlength=len(myvariable)
+print stringlength
+
+length=len(myage)
+print length
 
 # print 'He said "hello"
 # html = scraperwiki.scrape("http://foo.com")
