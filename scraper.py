@@ -4,8 +4,8 @@
 # import scraperwiki
 # import lxml.html
 
-myvariable='He said "hello".'
-print myvariable
+myvar='He said "hello".'
+print myvar
 
 myage=32
 print myage
@@ -13,7 +13,7 @@ print myage
 mylist=['this','that','the other']
 print mylist
 
-newlist=['string1', 'string2']
+newlist=['string1','string2']
 print newlist
 
 mynumberlist=[1,15,25,35]
@@ -25,8 +25,7 @@ print listlength
 stringlength=len(myvariable)
 print stringlength
 
-length=len(myage)
-print length
+
 
 # print 'He said "hello"
 # html = scraperwiki.scrape("http://foo.com")
