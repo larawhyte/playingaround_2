@@ -4,8 +4,8 @@
 # import scraperwiki
 # import lxml.html
 
-mytext='He said "hello".'
-print mytext
+myvariable='He said "hello".'
+print myvariable
 
 myage=32
 print myage
